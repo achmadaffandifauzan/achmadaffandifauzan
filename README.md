@@ -1,6 +1,7 @@
 ## Hi there👋, I am Achmad Affandi Fauzan 
-I am a software engineer experienced in creating full stack applications with Next.js, Express.js, React.js, Laravel,
-and Django. Skilled in using MySQL, PostgreSQL, MongoDB, and Firebase. Experienced project manager and
+
+I am a **`software engineer`** experienced in creating full stack web applications with **`Next.js`**, **`Express.js`**, **`React.js`**, **`Laravel`**,
+and **`Django`**. Skilled in using **`MySQL`**, **`PostgreSQL`**, **`MongoDB`**, and **`Firebase`**. Experienced project manager and
 scrum master, managing the entire SDLC.
 
 ## ✨ My Top Projects ✨
@@ -11,13 +12,13 @@ scrum master, managing the entire SDLC.
       <a target="_blank" href="https://type.affandif.com/">
         <img src="https://www.affandif.com/projects/typingtest_animate.webp" width="400px"/>
       </a>
-      <h3>TypingTest ⌨️</h3>
+      <h4>TypingTest ⌨️</h4>
     </td>
     <td width="50%" align="center">
       <a target="_blank" href="https://github.com/capstone-bangkidss">
         <img src="https://www.affandif.com/projects/scholarseeks.webp" width="400px"/>
       </a>
-      <h3>ScholarSeeks 📝</h3>
+      <h4>ScholarSeeks 📝</h4>
     </td>
   </tr>
 </table>
